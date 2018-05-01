@@ -3,7 +3,6 @@ _site
 .jekyll-metadata
 yarn.lock
 node_modules/
-_site/package-lock
 
 ### macOS ###
 *.DS_Store
